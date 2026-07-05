@@ -1,0 +1,15 @@
+# IDE files
+.idea/
+
+# Compiled output
+*.iml
+out/
+build/
+
+# Local files
+.DS_Store
+/node_modules
+/vendor
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
